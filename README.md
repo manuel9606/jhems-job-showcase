@@ -56,9 +56,23 @@ El sistema utiliza Node.js y Express para procesar las solicitudes, aplicar las 
 
 La plataforma integra distintos módulos administrativos bajo un esquema de usuarios y permisos.
 
-## Capturas del sistema
 
-Próximamente se incorporarán imágenes de los módulos principales.
+## 📸 Presentación y demostración del sistema
+
+JHEMS JOB es una plataforma de gestión empresarial desarrollada para administrar y automatizar procesos comerciales y administrativos.
+
+### 📄 Presentación completa
+
+La presentación incluye capturas de los principales módulos y funcionalidades del sistema.
+
+📥 **[Ver presentación de JHEMS JOB en PDF](screenshots/jhemsjob%20presentacion.pdf)**
+
+### 🌐 Sistema web
+
+🔗 [Acceder a JHEMS JOB](https://jhemsjobsistemas.com/login)
+
+> **Nota:** El acceso al sistema requiere credenciales autorizadas. El código fuente original permanece en un repositorio privado.
+  
 
 ## Mi participación
 
